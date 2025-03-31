@@ -2,7 +2,6 @@
 
 Um aplicativo moderno de assistência educacional desenvolvido com ASP.NET Blazor, combinando tecnologias de IA para melhorar a experiência de aprendizado.
 
-![Banner do Assistente de Ensino](https://via.placeholder.com/1200x300)
 
 ## 📋 Sumário
 
