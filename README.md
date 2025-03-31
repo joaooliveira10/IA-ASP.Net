@@ -48,8 +48,8 @@ Siga estas etapas para configurar o ambiente de desenvolvimento:
 
 1. **Clone o repositório**
     ```bash
-    git clone https://github.com/joaooliveira10/IA-ASP-NET.git
-    cd IA-ASP-NET
+    git clone https://github.com/joaooliveira10/IA-ASP.Net.git
+    cd IA-ASP.Net
     ```
 
 2. **Restaure as dependências**
