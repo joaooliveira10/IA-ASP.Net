@@ -1,0 +1,8 @@
+C:\WorkSpace\IA-ASP.NET-Blazor\IA-ASP.NET-Blazor devIo\implementando-inteligencia-artificial-utilizando-asp-net-blazor\src\AssistenteDeEnsino.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\WorkSpace\IA-ASP.NET-Blazor\IA-ASP.NET-Blazor devIo\implementando-inteligencia-artificial-utilizando-asp-net-blazor\src\AssistenteDeEnsino.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\WorkSpace\IA-ASP.NET-Blazor\IA-ASP.NET-Blazor devIo\implementando-inteligencia-artificial-utilizando-asp-net-blazor\src\AssistenteDeEnsino.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\WorkSpace\IA-ASP.NET-Blazor\IA-ASP.NET-Blazor devIo\implementando-inteligencia-artificial-utilizando-asp-net-blazor\src\AssistenteDeEnsino.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\WorkSpace\IA-ASP.NET-Blazor\IA-ASP.NET-Blazor devIo\implementando-inteligencia-artificial-utilizando-asp-net-blazor\src\AssistenteDeEnsino.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\WorkSpace\IA-ASP.NET-Blazor\IA-ASP.NET-Blazor devIo\implementando-inteligencia-artificial-utilizando-asp-net-blazor\src\AssistenteDeEnsino.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\WorkSpace\IA-ASP.NET-Blazor\IA-ASP.NET-Blazor devIo\implementando-inteligencia-artificial-utilizando-asp-net-blazor\src\AssistenteDeEnsino.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\WorkSpace\IA-ASP.NET-Blazor\IA-ASP.NET-Blazor devIo\implementando-inteligencia-artificial-utilizando-asp-net-blazor\src\AssistenteDeEnsino.Client\obj\Debug\net8.0\staticwebassets.build.json

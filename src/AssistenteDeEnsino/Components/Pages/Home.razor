@@ -1,0 +1,71 @@
+﻿@page "/"
+@using AssistenteDeEnsino.Services.Markdown
+@rendermode InteractiveServer
+
+@inject IMarkdownService Markdown
+
+
+<PageTitle>Home</PageTitle>
+
+@((MarkupString)Markdown.ConvertToHtml(TextoHome))
+
+@code {
+
+    public string TextoHome { get; set; }
+
+    protected override void OnInitialized()
+    {
+        TextoHome = @"
+# 🤖 Assistente de Ensino com IA no Blazor
+
+---
+
+## 🚀 Introdução
+
+Este conteúdo Plus demonstra como implementar **inteligência artificial** em uma aplicação ASP.NET Blazor.
+O objetivo é fornecer um exemplo prático e eficiente de como integrar IA utilizando tecnologias modernas como
+Blazor e a biblioteca da OpenAI, criando uma aplicação interativa e responsiva.
+
+---
+
+## 💻 O que é ASP.NET Blazor?
+
+ASP.NET Blazor é um framework de desenvolvimento de aplicações web que permite criar interfaces
+de usuário interativas utilizando **C# em vez de JavaScript**. Ele oferece a capacidade de criar
+aplicações SPAs com uma experiência de usuário rica e dinâmica.
+
+---
+
+## 🧠 Por que Implementar Inteligência Artificial?
+
+Integrar inteligência artificial em suas aplicações pode **transformar a experiência do usuário**, adicionando:
+
+- Assistentes virtuais inteligentes
+- Análise de dados em tempo real
+- Respostas automáticas a perguntas frequentes
+- Personalização do conteúdo
+
+A IA pode melhorar significativamente a eficiência e a interatividade das suas aplicações.
+
+---
+
+## 🛠️ Facilidade de Implementação no ASP.NET Blazor
+
+O ASP.NET Blazor, em conjunto com bibliotecas de IA como a OpenAI API, **simplifica a implementação**
+de inteligência artificial em suas aplicações. Através da injeção de dependência e do ciclo de vida
+do Blazor, você pode criar componentes interativos que se comunicam com APIs de IA de forma eficiente e direta.
+
+---
+
+## 🔑 Como criar sua API Key na OpenAI?
+
+Siga estes passos simples:
+
+1. Crie uma conta no site da [OpenAI](https://openai.com/)
+2. Realize login no [Dashboard de API](https://platform.openai.com/login?launch)
+3. Crie uma API Key no painel de [API Keys](https://platform.openai.com/api-keys)
+4. Para ter acesso ao **GPT-4o** e mais benefícios, faça um Upgrade de assinatura com uma carga de U$ 10,00
+
+> **Dica:** Guarde sua API key em um local seguro e nunca compartilhe com outros usuários!";
+    }
+}

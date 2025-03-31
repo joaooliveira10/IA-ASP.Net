@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AssistenteDeEnsino.Client.props" />
+</Project>
